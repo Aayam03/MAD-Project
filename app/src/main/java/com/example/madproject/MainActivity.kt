@@ -1,4 +1,4 @@
-package com.example.ticktaktoe
+package com.example.madproject
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
